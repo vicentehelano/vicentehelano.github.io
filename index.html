@@ -1,1 +1,214 @@
-Hello World
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+
+<head>
+  <title>Vicente H. F. Batista</title>
+
+  <meta http-equiv="Content-Language" content='en'>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="Description" content="Homepage of Vicente H. F. Batista.">
+
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link href="styles/main.css" rel="stylesheet" type="text/css">
+  <link href="pubs/styles/pubs.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #list-of-publications .headings { display: none; }
+    #list-of-publications .label { display: none; }
+  </style>
+
+  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
+
+  <script src="scripts/pubs.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.loading').bind("ajaxSend", function() {
+        $(this).show();
+      }).bind("ajaxStop", function() {
+        $(this).hide();
+      }).bind("ajaxError", function() {
+    	  $(this).hide();
+    	});
+
+      $.ajax({type: 'get',
+        url: 'pubs/pubs.xml',
+        dataTypeString: 'xml',
+        success: function(data) {
+          renderBibTeXml(data, 3);
+        }});
+    });
+
+    function showWhyBox() {
+      $('#name-curiosity').dialog({title: 'Curiosity',
+        closeOnEscape: true,
+        modal: true,
+        width: 480,
+        resizable: false});
+    }
+
+  </script>
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21176381-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body><title>Vicente H. F. Batista</title> 
+  <meta http-equiv="Content-Language" content="en" /> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta name="Description" content="Homepage of Vicente H. F. Batista." /> 
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" /> 
+  <link href="styles/main.css" rel="stylesheet" type="text/css" /> 
+  <link href="pubs/styles/pubs.css" rel="stylesheet" type="text/css" /> 
+  <style type="text/css">
+    #list-of-publications .headings { display: none; }
+    #list-of-publications .label { display: none; }
+  </style> 
+  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />      
+  <div id="body-wrapper"> 
+    <p> </p> 
+    <div id="page-title"> <a name="header"></a> 
+      <h1>Vicente<span class="middle-names">&nbsp;H. F.&nbsp;</span>Batista</h1> 
+    </div> 
+    <div id="intro-photo"> <img src="images/office.jpg" alt="At my home office in March 2011." style="padding-bottom: 3px;" /> 
+      <p style="text-align: center;"><a href="http://www.linkedin.com/in/helano"><img src="images/btn_viewmy_208x25.gif" width="208" height="25" border="0" alt="View Vicente H. F. Batista's profile on LinkedIn" /></a></p> 
+    </div> 
+    <div id="intro-brief"> 
+      <p>This year I started work at <a href="http://www.cariri.ufc.br/">Universidade Federal do Ceará</a> in <a href="http://en.wikipedia.org/wiki/Juazeiro_do_Norte">Juazeiro do Norte</a>, Brazil.
+I am in charge of courses on single and multivariable calculus and on programming for engineers.</p> 
+      <p>I received a D.Sc. degree in Civil Engineering from <a href="http://www.ufrj.br/">Federal University of Rio de Janeiro</a> in 2010, with thesis entitled &quot;Triangle Transversals and Their Applications to Triangulations&quot;.
+Since then, I have switched to Computer Science.</p> 
+      <p>My research interests are concentrated in the field of computational geometry and its applications. I enjoy working on the design and analysis of algorithms and data structures for problems dealing with geometric data.
+Below follows a sample of my publications.
+For the full list, please click <a href="pubs/">here.</a></p> 
+      <div id="loading" class="loading"> <img src="images/loading.gif" alt="Loading..." /> </div> <!-- Empty cells are not allowed. --> 
+      <table id="list-of-publications">
+        <tbody>
+          <tr style="display: none;">
+            <td> </td>
+          </tr>
+        </tbody>
+      </table> 
+    </div> 
+    <h2>Teaching</h2> 
+    <p>These are the courses I am currently teaching in 2013.1.</p> 
+    <ul> 
+      <li><a href="#">Analytic Geometry</a> </li>
+      <li><a href="#">Linear Algebra</a> </li>
+      <li><a href="#">Multivariable Calculus</a> </li>
+    </ul> <!--p>You can browse <a href="courses/">here</a> some previously taught courses.</p--> 
+    <h2>Projects</h2> 
+    <div> 
+      <div> <a href="http://coppetex.sourceforge.net/"><img src="images/coppetex.png" width="64" height="64" style="border: 0px; float: left; margin-right: 0.5em;" alt="CoppeTeX project" /></a> 
+        <p style="margin: 0em 1em 0em 0px;">The aim of the <a href="http://coppetex.sourceforge.net/">CoppeTeX</a> project is to provide a LaTeX framework suitable for writing thesis and dissertations according to the formatting rules established by the Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE/UFRJ).
+    </p> 
+      </div> 
+    </div> 
+    <div style="clear: both;"> </div> 
+    <h2>Everyday DCG Resources</h2> 
+    <p>This is a very-far-from-being-comprehensive-but-somehow-essential collection of resources for researchers in <a href="http://en.wikipedia.org/wiki/Discrete_geometry">Discrete (or Combinatorial)</a> and <a href="http://en.wikipedia.org/wiki/Computational_geometry">Computational Geometry</a>.
+Also, don't forget to follow recent <a href="http://arxiv.org/list/cs.CG/recent">Computational Geometry</a> submissions in <a href="http://arxiv.org/">arXiv</a>.</p> 
+    <div class="column-group"> 
+      <div class="column-left"> 
+        <div class="column-item"> 
+          <h3>Journals</h3> 
+          <ul> 
+            <li><a href="http://www.springerlink.com/content/100356/">Discrete and Computational Geometry</a> </li>
+            <li><a href="http://www.elsevier.com/locate/comgeo">Computational Geometry: Theory and Applications</a> </li>
+            <li><a href="http://www.worldscinet.com/ijcga/">International Journal of Computational Geometry and Applications</a> </li>
+            <li><a href="http://jocg.org/">Journal of Computational Geometry</a> </li>
+          </ul> 
+        </div> 
+        <div class="column-item"> 
+          <h3>Events</h3> 
+          <ul> 
+            <li><a href="http://www.computational-geometry.org/">Annual Symposium on Computational Geometry (SoCG)</a> </li>
+            <li><a href="http://www.cccg.ca/">Canadian Conference on Computational Geometry (CCCG)</a> </li>
+            <li><a href="http://www.eurocg.org/">European Workshop on Computational Geometry (EuroCG)</a> </li>
+            <li><a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=11111">Dagstuhl Seminar on Computational Geometry</a> </li>
+            <li><a href="http://erikdemaine.org/events/">Erik Demaine's List of Events</a> </li>
+            <li><a href="http://www.ams.sunysb.edu/~jsbm/events.html">Joe Mitchell's Event List</a> </li>
+          </ul> 
+        </div> 
+      </div> 
+      <div class="column-right"> 
+        <div class="column-item"> 
+          <h3>Blogs, mailing lists, Q&amp;A's, etc</h3> 
+          <ul> 
+            <li><a href="http://compgeom.cs.uiuc.edu/~jeffe/compgeom/">Computational Geometry Pages</a> </li>
+            <li><a href="http://www.ics.uci.edu/~eppstein/geom.html">Geometry in Action</a> </li>
+            <li><a href="http://cstheory.stackexchange.com/">TCS Stack Exchange</a> </li>
+            <li><a href="http://3dpancakes.typepad.com/">Ernie's 3D Pancakes</a> </li>
+            <li><a href="http://geomblog.blogspot.com/">The Geomblog</a> </li>
+            <li><a href="http://valis.cs.uiuc.edu/blog/">Vanity of Vanities, all is Vanity</a> </li>
+            <li><a href="http://denseoutliers.blogspot.com/">dense outliers</a> </li>
+            <li><a href="https://lists-sop.inria.fr/sympa/info/compgeom-discuss">Discussion list for Computational Geometry</a> </li>
+            <li><a href="https://lists-sop.inria.fr/sympa/info/compgeom-announce">Announcements for the Computational Geometry Community</a> </li>
+          </ul> 
+        </div> 
+        <div class="column-item"> 
+          <h3>Softwares</h3> 
+          <ul> 
+            <li><a href="http://www.cgal.org/">Computational Geometry Algorithms Library (CGAL)</a> </li>
+            <li><a href="http://www.algorithmic-solutions.com/leda/">Library for Efficient Data types and Algorithms (LEDA)</a> </li>
+            <li><a href="http://ipe7.sourceforge.net/">The Ipe extensible drawing editor</a> </li>
+          </ul> 
+        </div> 
+      </div> 
+    </div> <!--h2>Miscellaneous</h2>
+
+<h3>Sell and Swap Books</h3>
+
+<p>There are several places in the internet where one can sell used books or even swap them.
+Unfortunately, most of these services are restricted to addresses of a specific country.
+If you, your parents or any of your friends live in that country, you are lucky.
+Otherwise, you have to find another way to overcome this barrier.<br><br>
+Here, in Brazil, there aren't good sites where one could offer used books allowing international shipment.
+At my current institution, an interesting project developed by the TI Extension Program was the implementation of an e-commerce site called <a href="http://nexti.fapce.com.br/balcao/">BalcÃ£o</a> to address students' demands.
+But it is funny that most announcements are owned by professors! :)<br><br>
+I am offering 4 books on algorithms, software engineering, convexity theory:
+<ul>
+<li><a href="http://nexti.fapce.com.br/balcao/index.php/livros/products/view/6/9.html">A Course in Convexity</a>
+<li><a href="http://nexti.fapce.com.br/balcao/index.php/livros/products/view/6/8.html">How to Solve It: Modern Heuristics</a>
+<li><a href="http://nexti.fapce.com.br/balcao/index.php/livros/products/view/6/7.html">Generative Programming - Methods, Tools, and Applications</a>
+<li><a href="http://nexti.fapce.com.br/balcao/index.php/livros/products/view/6/6.html">Complexity and Approximation - Combinatorial optimization problems and their approximability properties</a>
+</ul>
+In case you get interested on any of them, you can send me an email with your trading proposal.
+If you think of swapping books, here comes a list of interesting books for me:
+</p--> 
+  </div> 
+  <div id="name-curiosity">
+Let me explain the reason I have &quot;mysteriously&quot; added <em>Sobrinho</em> to
+my mailing address. This &quot;string&quot; was concatenated to my name when I got married in 3 June 2006. It
+was borrowed from my wife, Ledjane Lima Sobrinho, as a way of honoring her
+and my father, JoÃ£o Batista Sobrinho, who unexpectedly passed away on
+October 2005. If you are suprised of how long my name is, and wondering how long a
+name in Brazil could be, take a look at the complete name of the first brazilian emperor,
+<a href="http://en.wikipedia.org/wiki/Pedro_I_of_Brazil">Dom Pedro I</a>.
+</div> 
+  <div id="footer"> 
+    <div class="column-group" style="width: 960px; margin: 0px auto;"> 
+      <div class="column-left"> 
+        <dl> <dt>Email</dt> <dd>vicentehelano at cariri dot ufc dot br</dd><dd> </dd><dt>Mailing address</dt> <dd>Vicente Helano Feitosa Batista Sobrinho <a id="showWhy" href="javascript:showWhyBox();"><sup>[click me]</sup></a><br />
+Universidade Federal do Ceará, Campus Cariri<br />
+Av. Tenente Raimundo Rocha, S/N, sala 13<br />
+Cidade Universitária, 63048-080, Juazeiro do Norte, CE, Brasil</dd> <dt>Phone</dt> <dd>+55 88 3572 7200, ramal 7412<br />
+        +55 88 3572 7223 (fax)</dd> </dl> 
+      </div> 
+      <div class="column-right"> 
+        <dl> <dt>Validators</dt> <dd><a href="http://validator.w3.org/check?uri=referer">Valid HTML 4.01 Strict!</a></dd> <dd><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://vicentehfbatista.org/">Valid CSS!</a></dd> <dt>Last modified</dt> <dd>
+Thu Mar  11 12:47:57 BRT 2013
+    </dd> </dl> 
+      </div> 
+    </div> 
+  </div></body>
+</html>

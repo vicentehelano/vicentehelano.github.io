@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+
+<head>
+  <title>Vicente H. F. Batista | List of Publications</title>
+
+  <meta http-equiv="Content-Language" content='en'>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Description" content="List of publications of Vicente H. F. Batista.">
+
+  <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+  <link href="../styles/main.css" rel="stylesheet" type="text/css">
+  <link href="styles/pubs.css" rel="stylesheet" type="text/css">
+  <link href="styles/coauthors.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #list-of-publications { margin-top: -10px; }
+  </style>
+
+  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
+
+  <script src="../scripts/pubs.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.loading').bind("ajaxSend", function() {
+        $(this).show();
+      }).bind("ajaxStop", function() {
+        $(this).hide();
+      }).bind("ajaxError", function() {
+    	  $(this).hide();
+    	});
+
+      $.ajax({type: 'get',
+        url: 'pubs.xml',
+        dataTypeString: 'xml',
+        success: function(data) {
+        renderBibTeXml(data, -1);
+        showCoAuthors();
+        }});
+    });
+
+    function showWhyBox() {
+      $('#name-curiosity').dialog({title: 'Curiosity',
+        closeOnEscape: true,
+        modal: true,
+        width: 480,
+        resizable: false});
+    }
+
+  </script>
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21176381-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body>
+
+<div id="body-wrapper">
+
+<div id="page-title">
+  <a name="header"></a>
+  <h1>List of Publications</h1>
+</div>
+
+<div id="intro-photo">
+<a href="http://en.wikipedia.org/wiki/Library_of_Alexandria"><img src="images/Ancientlibraryalex.jpg" border="0" alt="The Ancient Library of Alexandria."></a>
+</div>
+
+<div id="intro-brief">
+Here you can find the full collection of manuscripts I have (co-)authored. Published or not, they are all listed below.
+In case you cannot access exactly the one you are interested in, please ask me by email that I will be glad to send you a copy.
+<br><br>
+You can also browse my list of publications in <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Batista:Vicente_H=_F=.html">DBLP</a> or in my CV in either <a href="vita-en.pdf">free</a> or <a href="http://lattes.cnpq.br/3611394382543769">Lattes</a> format.
+</div>
+
+<div id="loading" class="loading">
+  <img src="../images/loading.gif" alt="Loading...">
+</div>
+
+<!-- Empty cells are not allowed. -->
+<table id="list-of-publications"><tbody><tr style="display: none;"><td>&nbsp;</td></tr></tbody></table>
+
+<h2>Co-authors</h2>
+
+<p>Many thanks to all people I have worked with so far. To these folks, the best wishes!</p>
+
+<table id="list-of-coauthors"><tbody><tr style="display: none;"><td>&nbsp;</td></tr></tbody></table>
+
+</div>
+
+<div id="name-curiosity">
+Let me explain the reason I have "mysteriously" added <em>Sobrinho</em> to
+my mailing address. This "string" was concatenated to my name when I got married in 3 June 2006. It
+was borrowed from my wife, Ledjane Lima Sobrinho, as a way of honoring her
+and my father, João Batista Sobrinho, who unexpectedly passed away on
+October 2005. If you are suprised of how long my name is, and wondering how long could a
+name in Brazil be, take a look at the complete name of the first brazilian Emperor,
+<a href="http://en.wikipedia.org/wiki/Pedro_I_of_Brazil">Dom Pedro I</a>.
+</div>
+<div id="footer">
+
+<div class="column-group" style="width: 960px; margin: 0 auto;">
+
+<div class="column-left">
+<dl>
+  <dt>Email</dt>
+    <dd>vicentehelano at cariri dot ufc dot br<dd>
+
+  <dt>Mailing address</dt>
+    <dd>Vicente Helano Feitosa Batista Sobrinho <a id="showWhy" href="javascript:showWhyBox();"><sup>[click me]</sup></a><br>
+Universidade Federal do Cear&aacute;, Campus Cariri<br>
+Av. Tenente Raimundo Rocha, S/N, sala 13<br>
+Cidade Universit&aacute;ria, 63040-360, Juazeiro do Norte, CE, Brasil</dd>
+
+  <dt>Phone</dt>
+    <dd>+55 88 3572 7412<br>
+        +55 88 3572 7223 (fax)</dd>
+
+</dl>
+</div>
+
+<div class="column-right">
+<dl>
+  <dt>Validators</dt>
+    <dd><a href="http://validator.w3.org/check?uri=referer">Valid HTML 4.01 Strict!</a></dd>
+    <dd><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://vicentehfbatista.org/">Valid CSS!</a></dd>
+
+  <dt>Last modified</dt>
+    <dd>
+Thu Mar  11 12:47:57 BRT 2013
+    </dd>
+</dl>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>

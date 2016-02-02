@@ -1,0 +1,30 @@
+/* List of coauthors */
+#list-of-coauthors {
+  width: auto;
+  border-collapse:collapse;
+  font-size: 10pt;
+}
+
+#list-of-coauthors td {
+}
+
+#list-of-coauthors .coauthor {
+  text-indent: 0em; margin-top: 0; margin-bottom: 0;
+  font-family: Verdana, sans-serif;
+  text-align: right;
+}
+
+#list-of-coauthors .label {
+  vertical-align: top;
+  font-family: Verdana, sans-serif;
+  padding-right: 5px;
+  text-align: right;
+}
+
+#list-of-coauthors .entries {
+  vertical-align: top;
+  font-family: Verdana, sans-serif;
+  padding-left: 5px;
+  text-align: left;
+}
+

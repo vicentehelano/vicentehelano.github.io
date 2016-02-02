@@ -1,0 +1,527 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="pt-br">
+
+<head>
+  <title>SI040: Computação Gráfica (2011.1)</title>
+
+  <meta http-equiv="Content-Language" content='pt-br'>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Keywords" content="computação gráfica">
+  <meta name="Description" content="Página de disciplina do bacharelado em Sistemas de Informação da Faculdade Paraíso do Ceará.">
+
+  <link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
+  <link href="styles/course.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="bodywrapper">
+
+<div id="header">
+  <a name="header-anchor"></a>
+  <h1>SI040: Computação Gráfica (2011.1)</h1>
+  <p><a href="https://www.fapce.com.br/?page=sistemas/inicial">Bacharelado em Sistemas de Informação</a></p>
+  <p><a href="https://www.fapce.com.br/">Faculdade Paraíso do Ceará</a></p>
+</div>
+
+<div id="picture">
+  <a href="http://en.wikipedia.org/wiki/Cornell_Box">
+  <img src="images/Cornell_box.png" border=0 height=250 alt="Caixa de Cornell clássica renderizada com POV-Ray."></a>
+  <p>Caixa de Cornell clássica renderizada com <a href="http://pt.wikipedia.org/wiki/POV-Ray">POV-Ray</a>.</p>
+</div>
+
+<div style="clear: left;"></div>
+
+<a name="description"></a>
+<h2>Descrição</h2>
+
+<p>
+Este curso é uma introdução aos conceitos fundamentais de computação gráfica.
+Serão abordados métodos de modelagem e renderização de cenas tridimensionais para aplicações em tempo real.
+Apresentaremos também algumas noções de processamento de imagens, realidade virtual e, caso o tempo permitir, animação computacional.
+</p>
+
+<a name="prerequisites"></a>
+<h2>Pré-requisitos</h2>
+
+<p>Conceitos básicos de álgebra linear e programação, preferencialmente em C ou C++.</p>
+
+<a name="syllabus"></a>
+<h2>Ementa</h2>
+
+<ul>
+  <li> Introdução
+  <li> Dispositivos gráficos
+  <li> Luz e cor
+  <li> OpenGL
+  <li> Transformações: translação, escala, espelhamento, cisalhamento, rotação
+  <li> Projeções: paralela e perspectiva
+  <li> Modelagem geométrica
+  <li> Síntese de imagens ou "renderização" (<em>rendering</em>)
+  <ul>
+    <li> Remoção de linhas e superfícies ocultas
+    <li> Conversão por varredura ou "rasterização"
+    <li> Modelos de iluminação e colorização (<em>shading</em>)
+    <li> Texturas
+  </ul>
+  <li> Introdução ao processamento de imagens
+  <li> Conceitos básicos de realidade virtual
+</ul>
+
+<a name="staff"></a>
+<h2>Responsáveis</h2>
+
+<h3>Professores</h3>
+
+<p><a href="../../">Vicente Helano Feitosa Batista</a> (a partir da aula 16)</p>
+<p><em>Email:</em> vicentehelano [arroba] gmail [ponto] com</p>
+<br>
+<p>Réryka Rubia Panágio Custódio Leite da Silva (até a aula 15)</p>
+<p><em>Email:</em> rerykarubia [arroba] yahoo [ponto] com [ponto] br</p>
+
+<a name="time-and-location"></a>
+<h2>Horário e Local</h2>
+
+<h3>Aulas</h3>
+
+<p>Segunda e quinta-feira de 20:20 às 22:00, na sala do 7º período.</p>
+
+<h3>Atendimento</h3>
+
+<p>Os alunos poderão nos encontrar na sala dos professores do curso de Sistemas de Informação da FAP, preferencialmente, nas segundas e quartas-feiras de 18:00 às 18:20, conforme consta nos <a href="http://www.faculdadeparaiso.com.br/?page=procedimentos-academicos&amp;prc=informacoes-academicas-horario-das-aulas">Procedimentos Acadêmicos</a>.
+Além disso, fiquem à vontade para tirar dúvidas por email.
+</p>
+
+<a name="grading"></a>
+<h2>Avaliação</h2>
+
+<p>Os alunos serão avaliados por meio de 2 (duas) provas teóricas, 1 (um) trabalho teórico e 1 (um) projeto final de implementação.
+A média final será calculada como a média aritimética de todas as notas.</p>
+
+<a name="textbook"></a>
+<h2>Bibliografia</h2>
+
+<p>
+Os assuntos abordados nas aulas refletem, basicamente, os conteúdos dos livro de <a href="#Azevedo">Azevedo e Conci</a> e <a href="#Shirley">Shirley e Marschner</a>, adotados como referências principais desta disciplina.
+Havendo necessidade, recomenda-se ao aluno consultar os livros de <a href="#Foley">Foley et al.</a> como fonte enciclopédica e o de <a href="#Angel">Angel</a>, de tratamento mais prático. Para detalhes específicos sobre OpenGL, consultar o livro <a href="#Vermelho">Vermelho</a> e a <a href="#Biblia">super bíblia</a>.
+Outras referências igualmente interessantes são os livros de <a href="#Impa">Jonas Gomes e Luiz Velho</a>, <a href="#Moller">Möller et al.</a> e as notas de aula dos professores <a href="#Mount">David Mount</a> e <a href="#Roma">Paulo Roma Cavalcanti</a>.</p>
+
+<h3>Básica</h3>
+
+<table id="references-basic" summary="Bibliografia básica.">
+<tr>
+  <td class="label"><a name="Azevedo">[Azevedo]</a></td>
+  <td>Eduardo Azevedo e Aura Conci. <span class="title">Computação Gráfica: Teoria e Prática</span>, Elsevier, Rio de Janeiro, 2003.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Shirley">[Shirley]</a></td>
+  <td>Peter Shirley e Stephen Marschner. <span class="title">Fundamentals of Computer Graphics</span>, 3a. edição, A. K. Peters, Natick, 2009.</td>
+</tr>
+</table>
+
+<h3>Adicional</h3>
+
+<table id="references-additional" summary="Bibliografia complementar.">
+<tr>
+  <td class="label"><a name="Foley">[Foley]</a></td>
+  <td>James D. Foley, Andries van Dam, Steven K. Feiner e John F. Hughes. <span class="title">Computer Graphics: Principles and Practices</span>, 2a. edição, Addison-Wesley, Boston, 1995.</td>
+</tr>
+
+<tr>
+  <td class="label"><a name="Angel">[Angel]</a></td>
+  <td>Edward Angel. <span class="title">Interactive Computer Graphics: A Top-Down Approach Using OpenGL</span>, 5a. edição. Addison-Wesley, Boston, 2008.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Vermelho">[Vermelho]</a></td>
+  <td>Woo, Mason, Jackie Neider, Tom Davis, e Dave Shreiner. <span class="title">OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.1</span>, 8a. edição. Addison-Wesley, Boston, 2011.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Biblia">[Bíblia]</a></td>
+  <td>Richard S. Wright, Nicholas S. Haemel, Graham Sellers e Benjamin Lipchak. <span class="title">OpenGL SuperBible: Comprehensive Tutorial and Reference</span>, 5a. edição. Addison-Wesley, Boston, 2010.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Impa">[Impa]</a></td>
+  <td>Jonas M. Gomes e Luiz Velho. <span class="title">Fundamentos da Computação Gráfica</span>, Série de Computação e Matemática, IMPA, Rio de Janeiro, 2008.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Moller">[Möller]</a></td>
+  <td>Tomas Möller, Eric Haines, and Tomas Akenine-Moller. <span class="title">Real-Time Rendering</span>, 2a. edição. A. K. Peters, Natick, 2002.</td>
+</tr>
+<tr>
+  <td class="label"><a name="Mount">[Mount]</a></td>
+  <td>David Mount, <span class="title">Computer Graphics</span>. Notas de Aula, University of Maryland, College Park, 2010. <a href="http://www.cs.umd.edu/class/fall2010/cmsc427/Lects/cmsc427-lects.pdf">[PDF]</a></td>
+</tr>
+<tr>
+  <td class="label"><a name="Roma">[Roma]</a></td>
+  <td>Paulo Roma, <span class="title">Introdução à Computação Gráfica</span>. Notas de Aula, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2000. <a href="http://www.lcg.ufrj.br/Cursos/COS-751/apostila.pdf">[PDF]</a></td>
+</tr>
+
+</table>
+
+<a name="assignments"></a>
+<h2>Exercícios e projetos</h2>
+
+<p>Serão distribuídas duas listas de exercícios ao longo do período, onde cada uma valerá 1/2 (meio) ponto a ser adicionado na nota do projeto final.</p>
+
+<ul>
+  <li><a name="lista1"></a><a href="lista1.pdf">Lista de exercícios 1</a>
+  <li><a name="lista2"></a><a href="lista2.pdf">Lista de exercícios 2</a>
+</ul>
+
+<a name="schedule"></a>
+<h2>Programação</h2>
+
+<p>
+A tabela a seguir contém uma programação provisória, cujo conteúdo será atualizado segundo o andamento das atividades.
+</p>
+
+<br>
+
+<table id="lectures" summary="Programação das aulas.">
+<thead>
+<tr>
+<th>Aula</th><th>Data</th><th>Tópico</th><th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<!-- End of January -->
+<tr>
+  <td>1</td>
+  <td>31/01</td>
+  <td>Apresentação do curso</td>
+  <td></td>
+</tr>
+
+<!-- February -->
+<tr>
+  <td>2</td>
+  <td>03/02</td>
+  <td>Introdução à Computação Gráfica: origens e conceitos</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>07/02</td>
+  <td>Introdução à Computação Gráfica: aplicações</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>10/02</td>
+  <td>Realidade Virtual: conceitos</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>14/02</td>
+  <td>Realidade Virtual: visão estereoscópica</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>17/02</td>
+  <td>Realidade Virtual: visão estereoscópica</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>21/02</td>
+  <td>Realidade Virtual: dispositivos</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>8</td>
+  <td>24/02</td>
+  <td>Realidade Virtual: aplicações</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>9</td>
+  <td>28/02</td>
+  <td>OpenGL: introdução</td>
+  <td></td>
+</tr>
+
+<!-- March -->
+<tr>
+  <td>10</td>
+  <td>03/03</td>
+  <td>OpenGL: biblioteca GLUT</td>
+  <td></td>
+</tr>
+
+<tr class="holiday">
+  <td></td>
+  <td>07/03</td>
+  <td>Feriado: Carnaval</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>11</td>
+  <td>10/03</td>
+  <td>OpenGL: primitivas gráficas</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>12</td>
+  <td>14/03</td>
+  <td>OpenGL: visualização</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>13</td>
+  <td>17/03</td>
+  <td>OpenGL: cor</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>14</td>
+  <td>21/03</td>
+  <td>OpenGL: iluminação</td>
+  <td></td>
+</tr>
+
+<tr class="holiday">
+  <td></td>
+  <td>24/03</td>
+  <td>Feriado: Aniversário de Padre Cícero</td>
+  <td></td>
+</tr>
+
+<tr class="exam">
+  <td>15</td>
+  <td>28/03</td>
+  <td>PRIMEIRA AVALIAÇÃO PARCIAL</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>16</td>
+  <td>31/03</td>
+  <td>OpenGL: interatividade com GLUT</td>
+  <td></td>
+</tr>
+
+<!-- April: Vicente started here. -->
+<tr>
+  <td>17</td>
+  <td>04/04</td>
+  <td>Transformações: fundamentos matemáticos</td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+</tr>
+
+<tr>
+  <td>18</td>
+  <td>07/04</td>
+  <td>Transformações: translação, escala, cisalhamento, espelhamento</td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+</tr>
+
+<tr>
+  <td>19</td>
+  <td>11/04</td>
+  <td>Rotações, rotações arbitrárias, coordenadas homogêneas</td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>20</td>
+  <td>14/04</td>
+  <td>Transformação de janelas</td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+</tr>
+
+<tr>
+  <td>21</td>
+  <td>18/04</td>
+  <td>Aula de exercícios e exemplos em OpenGL; <a href="#lista1">Lista 1</a></td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+</tr>
+
+<tr class="holiday">
+  <td></td>
+  <td>21/04</td>
+  <td>Feriado: Dia de Tiradentes</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>22</td>
+  <td>25/04</td>
+  <td>Mudança de sistemas de coordenadas; Entrega da <a href="#lista1">Lista 1</a></td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 6</td>
+</tr>
+
+<tr>
+  <td>23</td>
+  <td>28/04</td>
+  <td><a href="lectures/aula-23-visualizacao.pdf">Visualização</a>: sistema de câmera virtual, projeções paralelas e perspectivas</td>
+  <td>Azevedo, Cap. 2; Shirley, Cap. 7</td>
+</tr>
+
+<!-- May -->
+<tr>
+  <td>24</td>
+  <td>02/05</td>
+  <td><a href="lectures/aula-24-rasterizacao.pdf">Rasterização</a></td>
+  <td>Azevedo, Seção 7.2; Shirley, Cap. 8</td>
+</tr>
+
+<tr class="event">
+  <td>25</td>
+  <td>05/05</td>
+  <td>Seminário parcial dos TCCs do 8o. semestre</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>26</td>
+  <td>09/05</td>
+  <td><a href="lectures/aula-26-rasterizacao-cont.pdf">Rasterização</a></td>
+  <td>Azevedo, Seção 7.2; Shirley, Cap. 8</td>
+</tr>
+
+<tr>
+  <td>27</td>
+  <td>12/05</td>
+  <td><a href="lectures/aula-27-recorte.pdf">Recorte</a></td>
+  <td>Shirley, Seções 8.1.3-6; Apostila Prof. Paulo Roma, Cap. 9</td>
+</tr>
+
+<tr>
+  <td>28</td>
+  <td>16/05</td>
+  <td><a href="lectures/aula-28-iluminacao-e-colorizacao.pdf">Iluminação e colorização</a></td>
+  <td>Azevedo, Seção 7.3; Shirley, Cap. 10</td>
+</tr>
+
+<tr>
+  <td>29</td>
+  <td>19/05</td>
+  <td><a href="lectures/aula-29-visibilidade.pdf">Visibilidade</a></td>
+  <td>Azevedo, Seção 7.2.4; Shirley, Seções 8.2 e 8.4</td>
+</tr>
+
+<tr>
+  <td>30</td>
+  <td>20/05</td>
+  <td>Introdução à programação geométrica <a href="lectures/aula-30-programacao-geometrica.zip">[material de apoio]</a>; Projeto Final</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>31</td>
+  <td>23/05</td>
+  <td>Malhas poligonais <a href="lectures/aula-31-malhas-poligonais.zip">[material de apoio]</a></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>32</td>
+  <td>30/05</td>
+  <td>Malhas poligonais <a href="lectures/aula-32-malhas-poligonais.zip">[material de apoio]</a>; <a href="#lista2">Lista 2</a></td>
+  <td></td>
+</tr>
+
+<!-- June -->
+<tr>
+  <td>33</td>
+  <td>02/06</td>
+  <td>Malhas poligonais</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>34</td>
+  <td>03/06</td>
+  <td>Discussão sobre 2ª Lista</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>35</td>
+  <td>03/06</td>
+  <td>Discussão sobre 2ª Lista</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>36</td>
+  <td>06/06</td>
+  <td>Revisão do semestre; Tira-dúvidas sobre a 2ª Lista</td>
+  <td></td>
+</tr>
+
+<tr class="exam">
+  <td>37</td>
+  <td>09/06</td>
+  <td>SEGUNDA AVALIAÇÃO PARCIAL</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>38</td>
+  <td>13/06</td>
+  <td>Discussão sobre 2ª prova e projeto final</td>
+  <td></td>
+</tr>
+
+<tr class="event">
+  <td>39</td>
+  <td>16/06</td>
+  <td>Semana do Curso de Sistemas de Informação</td>
+  <td></td>
+</tr>
+
+<tr class="exam">
+  <td>40</td>
+  <td>20/06</td>
+  <td>APRESENTAÇÃO DO PROJETO FINAL</td>
+  <td></td>
+</tr>
+
+<tr class="exam">
+  <td></td>
+  <td>27/06</td>
+  <td>AVALIAÇÃO FINAL</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+<div class="top-link">
+  <a href="#header-anchor">topo</a>
+</div>
+
+<div id="footer">
+<div class="comments">
+Última modificação em
+Sáb Jun  4 13:58:22 BRT 2011
+por Vicente H. F. Batista<br>
+&copy; 2011 Vicente H. F. Batista
+</div>
+
+<div class="validators">
+  <a href="http://validator.w3.org/check?uri=referer"><img src="../../images/valid-html401-blue.png" alt="Valid HTML 4.01 Strict!"></a>
+  <a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="../../images/valid-css-blue.png" alt="Valid CSS!"></a>
+</div>
+</div>
+
+</div>
+
+</body>
+<!-- vim:spell:spelllang=pt_br -->
+</html>
+

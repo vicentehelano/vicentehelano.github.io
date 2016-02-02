@@ -1,0 +1,264 @@
+body {
+  color: #333333;
+  background: white;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  font-size: 10pt;
+  text-align: center;
+}
+
+h1 {
+  font-size: 20pt;
+  margin-left: 0%;
+  color: #c62121;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 14pt;
+  margin-left: 0%;
+  color: #c62100;
+  margin-bottom: 0.6em;
+}
+
+h3 {
+  font-family: Verdana, sans-serif;
+  font-size: 10pt;
+  font-style: italic;
+  margin-left: 0%;
+  color: #444444;
+}
+
+p {
+  text-indent: 0em; margin-top: 0; margin-bottom: 0;
+  font-family: Verdana, sans-serif;
+}
+
+em {
+  font-style: italic;
+  font-weight: normal;
+}
+
+strong {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+pre {
+  font-family: monospace;
+}
+
+:link {
+  background-color: inherit;
+  color: rgb(0, 86, 137)
+}
+
+:visited {
+  background-color: inherit;
+  color: rgb(137, 0, 137)
+}
+
+a:active {
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+#bodywrapper {
+  width:960px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#header {
+  float: left;
+  clear: left;
+  margin-bottom: 3em;
+  text-align: left;
+}
+
+#header p {
+  color: #333333;
+  font-style: italic;
+  font-family: Verdana, sans-serif;
+}
+
+#picture {
+  float: right;
+  width: 250px;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+}
+
+#picture p {
+  font-size: 8pt;
+}
+
+#footer {
+  border-top: dotted #cecece 1pt;
+  font-size: 9pt;
+  font-style: italic;
+  padding: 0.25em;
+  margin-top: 1em;
+  text-align: left;
+}
+
+#footer div.comments {
+  float: left;
+  font-family: arial, sans-serif;
+}
+
+#footer div.validators {
+  float: right;
+}
+
+#footer img {
+  border: 0;
+}
+
+.top-link {
+  margin-top: 2em;
+  text-align: right;
+  text-decoration: underline;
+  font-size: 8pt;
+}
+
+table#lectures {
+  border-collapse: collapse;
+  border-top: 1px solid silver;
+  width: 100%;
+  font-size: 10pt;
+  padding: 0.2em;
+}
+
+table#lectures tr {
+  border-bottom:1px solid silver;
+}
+
+table#lectures tr.holiday {
+  background: #fffca1;
+}
+
+table#lectures tr.due-date {
+  background: #e3ec98;
+}
+
+table#lectures tr.exam {
+  background: #ffdbb5;
+  color: #a01818;
+  font-weight: bold;
+}
+
+table#lectures tr.event {
+  background: #e8d0c5;
+}
+
+table#lectures tr.part {
+  color: #a01818;
+  font-weight: bold;
+}
+
+table#lectures th {
+  text-align: left;
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+}
+
+table#lectures td.lecture-number {
+  width: 64px;
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+}
+
+table#lectures td.lecture-date {
+  width: 64px;
+}
+
+table#lectures td.lecture-title {
+  text-align: left;
+  width: 55%;
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+}
+
+table#lectures td.lecture-references {
+  text-align: left;
+}
+
+table#references-basic {
+  border-collapse: collapse;
+  padding-left: 1em;
+  width: 100%;
+  font-size: 10pt;
+}
+
+table#references-basic td.label {
+  width: 100px;
+  vertical-align: top;
+}
+
+table#references-additional {
+  border-collapse: collapse;
+  padding-left: 1em;
+  width: 100%;
+  font-size: 10pt;
+}
+
+table#references-additional td.label {
+  width: 100px;
+  vertical-align: top;
+}
+
+span.title {
+  font-weight: bold;
+}
+
+dl#announcements dt {
+  font-family: Verdana, sans-serif;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-left: 0%;
+  color: #444444;
+}
+
+table.groups {
+  border-collapse: collapse;
+  border-top: 1px solid silver;
+  width: 100%;
+  font-size: 10pt;
+  padding: 0.2em;
+}
+
+table.groups th {
+  text-align: left;
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+}
+
+table.groups tr {
+  border-bottom:1px solid silver;
+}
+
+table.groups td {
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+}
+
+table.groups td.raggedleft {
+  padding-right: 5pt;
+  text-align: right;
+}
+
+table.groups td.wider {
+  width: 32px;
+}
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="63.999992"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="coppetex.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\~helano\images\coppetex.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   version="1.0">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="853"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="10.000001"
+     inkscape:cx="32"
+     inkscape:cy="31.999996"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 11.344 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="109.988 : 11.344 : 1"
+       inkscape:persp3d-origin="54.993999 : 7.5626666 : 1"
+       id="perspective33" />
+    <marker
+       id="ArrowEnd"
+       viewBox="0 0 10 10"
+       refX="0"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 0,0 L 10,5 L 0,10 L 0,0 z"
+         id="path7" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       viewBox="0 0 10 10"
+       refX="10"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 10,0 L 0,5 L 10,10 L 10,0 z"
+         id="path10" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#63b412;fill-opacity:1;stroke:none;stroke-width:0.991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2420"
+     width="63.999992"
+     height="64"
+     x="-63.999992"
+     y="0"
+     rx="6.9129143"
+     ry="6.9129148"
+     transform="matrix(0,-1,1,0,0,0)"
+     inkscape:export-filename="/home/helano/public_html/images/coppetex.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path24"
+     d="M 24.292791,32.505994 L 7.0978997,32.505994 L 6.5953136,38.878895 L 7.1315614,38.878895 C 7.5163141,34.105916 7.9395479,33.270445 12.555394,33.270445 C 13.091643,33.270445 13.959742,33.270445 14.200217,33.270445 C 14.767728,33.356596 14.767728,33.706784 14.767728,34.370037 L 14.767728,50.055045 C 14.767728,51.096445 14.678755,51.414103 12.17064,51.414103 L 11.325384,51.414103 L 11.325384,52.10992 C 12.753782,52.083158 14.242303,52.055232 15.703161,52.055232 C 17.159216,52.055232 18.652543,52.083158 20.079737,52.10992 L 20.079737,51.414103 L 19.248907,51.414103 C 16.778064,51.414103 16.689086,51.096445 16.689086,50.055045 L 16.689086,34.370037 C 16.689086,33.73356 16.689086,33.387979 17.224136,33.270445 C 17.459796,33.270445 18.323095,33.270445 18.859344,33.270445 C 23.415077,33.270445 23.861147,34.101226 24.2459,38.878895 L 24.780944,38.878895 L 24.292791,32.505994 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.35484216;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:export-filename="/home/helano/public_html/images/coppetex.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path26"
+     d="M 39.233271,51.105756 L 38.698226,51.105756 C 38.045349,55.378409 37.659389,57.700906 32.423128,57.700906 L 28.289416,57.700906 C 27.101499,57.700906 27.044985,57.555458 27.044985,56.56409 L 27.044985,48.509816 L 29.853685,48.509816 C 32.662399,48.509816 32.930514,49.505838 32.930514,51.937712 L 33.409056,51.937712 L 33.409056,44.441951 L 32.930514,44.441951 C 32.930514,46.8331 32.662399,47.810506 29.853685,47.810506 L 27.044985,47.810506 L 27.044985,40.66964 C 27.044985,39.696888 27.101499,39.551441 28.289416,39.551441 L 32.361802,39.551441 C 36.969233,39.551441 37.50428,41.323581 37.922696,45.133117 L 38.457752,45.133117 L 37.744758,38.760221 L 22.668412,38.760221 L 22.668412,39.551441 C 24.777338,39.551441 25.115203,39.551441 25.115203,40.846479 L 25.115203,56.396537 C 25.115203,57.691596 24.780944,57.691596 22.668412,57.691596 L 22.668412,58.387415 L 38.161976,58.387415 L 39.233271,51.105756 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.35484216;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:export-filename="/home/helano/public_html/images/coppetex.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path28"
+     d="M 47.260178,41.206048 L 51.665608,35.042584 C 52.106872,34.4375 53.003825,33.192463 55.445821,33.161081 L 55.445821,32.46523 C 54.765307,32.519914 53.63388,32.519914 52.919674,32.519914 C 51.937346,32.519914 50.716971,32.519914 49.975076,32.46523 L 49.975076,33.161081 C 50.928556,33.247151 51.163021,33.824316 51.163021,34.288574 C 51.163021,34.633014 51.01755,34.865743 50.80592,35.151948 L 46.874217,40.66964 L 42.46881,34.429401 C 42.262,34.115212 42.234347,34.024457 42.234347,33.938383 C 42.234347,33.678873 42.558983,33.187855 43.544904,33.161081 L 43.544904,32.46523 C 42.591441,32.519914 41.13539,32.519914 40.154271,32.519914 C 39.383568,32.519914 37.895053,32.519914 37.176043,32.46523 L 37.176043,33.161081 C 38.810039,33.161081 39.346288,33.220445 40.003975,34.115212 L 45.747623,42.278852 L 40.566674,49.601253 C 39.28978,51.391993 37.353983,51.423412 36.786474,51.423412 L 36.786474,52.119227 C 37.467005,52.064541 38.599636,52.064541 39.312626,52.064541 C 40.115794,52.064541 41.51534,52.064541 42.258408,52.119227 L 42.258408,51.423412 C 41.33739,51.337304 41.069269,50.760171 41.069269,50.295903 C 41.069269,49.923559 41.214749,49.718772 41.36505,49.513982 L 46.127564,42.78736 L 51.308514,50.155113 C 51.542978,50.473934 51.542978,50.560038 51.542978,50.64614 C 51.542978,50.87304 51.27605,51.368721 50.232403,51.428065 L 50.232403,52.123884 C 51.185877,52.069195 52.641921,52.069195 53.624251,52.069195 C 54.39375,52.069195 55.883474,52.069195 56.60611,52.123884 L 56.60611,51.428065 C 54.699155,51.428065 54.398575,51.287273 53.807027,50.473934 L 47.260178,41.206048 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.35484216;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:export-filename="/home/helano/public_html/images/coppetex.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:15.12746525px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="6.2632251"
+     y="18.812647"
+     id="text2386"><tspan
+       sodipodi:role="line"
+       id="tspan2388"
+       x="6.2632251"
+       y="18.812647">COPPE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12.63752365px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+     x="26.68343"
+     y="30.71204"
+     id="text2392"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2394"
+       x="26.68343"
+       y="30.71204">+</tspan></text>
+</svg>
