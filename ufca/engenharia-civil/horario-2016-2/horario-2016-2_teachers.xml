@@ -1,0 +1,8145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="A DEFINIR 01">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0017 - MECANICA PARA ENGENHARIA CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0017 - MECANICA PARA ENGENHARIA CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0017 - MECANICA PARA ENGENHARIA CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="A DEFINIR 02">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0046 - ANALISE DE ESTRUTURAS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0046 - ANALISE DE ESTRUTURAS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0046 - ANALISE DE ESTRUTURAS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0049 - PONTES I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0049 - PONTES I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0049 - PONTES I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ALEXANDRE ARAUJO CAVALCANTE SOARES (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANA PATRICIA NUNES BANDEIRA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="ECI0052 - BARRAGENS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0052 - BARRAGENS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0052 - BARRAGENS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0037 - MECANICA DOS SOLOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0037 - MECANICA DOS SOLOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0031 - MECANICA DOS SOLOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0031 - MECANICA DOS SOLOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0037 - MECANICA DOS SOLOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0037 - MECANICA DOS SOLOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0031 - MECANICA DOS SOLOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0031 - MECANICA DOS SOLOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="GEOTECNIA"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANTONIA FABIANA MARQUES ALMEIDA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0045 - HIGIENE IND E SEGURANCA DO TRABALHO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0045 - HIGIENE IND E SEGURANCA DO TRABALHO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0079 - INTRODUÇÃO À ENGENHARIA CIVIL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0079 - INTRODUÇÃO À ENGENHARIA CIVIL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S03T02"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0029 - PROJETO E CONSTRUCAO DE EDIFICIOS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANTONIO CARLOS ALONGE RAMOS">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     <Subject name="CAR0002 - FISICA FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="CAR0002 - FISICA FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0013 - MECANICA PARA ENGENHARIA CIVIL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0013 - MECANICA PARA ENGENHARIA CIVIL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     <Subject name="CAR0002 - FISICA FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="CAR0002 - FISICA FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0013 - MECANICA PARA ENGENHARIA CIVIL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANTONIO ITALCY DE OLIVEIRA JUNIOR">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ARY FERREIRA DA SILVA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0012 - TOPOGRAFIA"></Subject><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S03T01"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0030 - ANALISE E PLANEJ DE SIST DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0030 - ANALISE E PLANEJ DE SIST DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0030 - ANALISE E PLANEJ DE SIST DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CAMILA LIMA MAIA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0036 - PROJETO E CONSTRUCAO DA INFRA-ESTRUTURA VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0036 - PROJETO E CONSTRUCAO DA INFRA-ESTRUTURA VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0036 - PROJETO E CONSTRUCAO DA INFRA-ESTRUTURA VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0036 - PROJETO E CONSTRUCAO DA INFRA-ESTRUTURA VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     <Subject name="ECI0042 - PROJETO E CONSTR DA SUPER ESTR VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0042 - PROJETO E CONSTR DA SUPER ESTR VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0042 - PROJETO E CONSTR DA SUPER ESTR VIARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0050 - OPERACAO DE SISTEMAS DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0050 - OPERACAO DE SISTEMAS DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0050 - OPERACAO DE SISTEMAS DE TRANSPORTES"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="TRANSPORTES"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CARLOS ALBERTO FLORENCIO FILHO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CELME TORRES FERREIRA DA COSTA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="ECI0044 - HIDROLOGIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0044 - HIDROLOGIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="EM0027 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="EM0027 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="EM0027 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="EM0027 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0044 - HIDROLOGIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0044 - HIDROLOGIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CESAR FERREIRA DE FREITAS">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CLARICE DIAS DE ALBUQUERQUE">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CLEIRTON ANDRE SILVA DE FREITAS">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0048 - ESTRUTURAS DE ACO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0048 - ESTRUTURAS DE ACO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0048 - ESTRUTURAS DE ACO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0040 - ESTRUTURAS DE CONCRETO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0040 - ESTRUTURAS DE CONCRETO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0040 - ESTRUTURAS DE CONCRETO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0047 - ESTRUTURAS DE CONCRETO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0047 - ESTRUTURAS DE CONCRETO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0047 - ESTRUTURAS DE CONCRETO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="FRANCISCO CALVI DA CRUZ JUNIOR">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0015 - MATEMATICA APLICADA A ENGENHARIA CIVIL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0015 - MATEMATICA APLICADA A ENGENHARIA CIVIL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0015 - MATEMATICA APLICADA A ENGENHARIA CIVIL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="FRANCISCO JOSE DE PAULA FILHO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="FRANCISCO JOSE PEREIRA DE ALMEIDA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="INGRID MAZZA MATOS RAMOS (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="JANEIDE FERREIRA ALENCAR DE OLIVEIRA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="JEFFERSON HERÁCLITO ALVES DE SOUZA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="EM0013 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="EM0013 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0022 - ELETROTECNICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0022 - ELETROTECNICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="EM0013 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="EM0013 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0022 - ELETROTECNICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0022 - ELETROTECNICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0035 - PROJETO E CONSTRUCAO DE EDIFICIOS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="JOAO BOSCO DUMONT DO NASCIMENTO (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="JOAO HERMINIO DA SILVA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="JUSCELINO PEREIRA SILVA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="CAR0004 - CALCULO FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="CAR0004 - CALCULO FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="CAR0004 - CALCULO FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="CAR0004 - CALCULO FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="LARICE SIMONE DE OLIVEIRA FERREIRA (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="LARISSA MARIA ARGOLLO DE ARRUDA FALCAO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="LUIZ ALBERTO RIBEIRO MENDONCA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="EM0030 - FENOMENOS DE TRANSFERENCIA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="EM0030 - FENOMENOS DE TRANSFERENCIA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="AGUAS SUBTERRANEAS"></Subject><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="AGUAS SUBTERRANEAS"></Subject><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0023 - MECANICA DOS FLUIDOS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0023 - MECANICA DOS FLUIDOS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="EM0030 - FENOMENOS DE TRANSFERENCIA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="EM0030 - FENOMENOS DE TRANSFERENCIA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="AGUAS SUBTERRANEAS"></Subject><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="AGUAS SUBTERRANEAS"></Subject><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0023 - MECANICA DOS FLUIDOS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0023 - MECANICA DOS FLUIDOS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="LUIZ PAULO ARAGAO DE ALMEIDA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0014 - MATERIAIS DE CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0014 - MATERIAIS DE CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0014 - MATERIAIS DE CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0014 - MATERIAIS DE CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="EM0002 - DESENHO TECNICO PARA ENGENHARIA DE MATERIAIS"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0009 - DESENHO PARA A ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DA AREA"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARCELO OLIVEIRA SANTIAGO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T01"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T01"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T02"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T02"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T03"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0006 - QUIMICA GERAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="QUIMICA"></Activity_Tag><Students name="1º Semestre"></Students><Students name="S01T03"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARCILIO LUIS VIANA CORREIA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="EM0028 - ELETROTÉCNICA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="EM0028 - ELETROTÉCNICA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0018 - MATERIAIS DE CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0018 - MATERIAIS DE CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="EM0028 - ELETROTÉCNICA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="EM0028 - ELETROTÉCNICA"></Subject><Activity_Tag name="*** TURMA EXTERNA ***"></Activity_Tag>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0018 - MATERIAIS DE CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0018 - MATERIAIS DE CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="ECI0041 - GERENCIAMENTO NA CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0041 - GERENCIAMENTO NA CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0041 - GERENCIAMENTO NA CONSTRUCAO CIVIL I"></Subject><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0062 - GERENCIAMENTO DA CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="S09T02"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0062 - GERENCIAMENTO DA CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="S09T02"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0062 - GERENCIAMENTO DA CONSTRUCAO CIVIL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="S09T02"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="ECI0038 - INSTALACOES HIDRAULICAS E SANITARIAS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0038 - INSTALACOES HIDRAULICAS E SANITARIAS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0038 - INSTALACOES HIDRAULICAS E SANITARIAS"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="CONSTRUCAO CIVIL"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARCOS JOSE TIMBO LIMA GOMES">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARCUS VINICIUS DE OLIVEIRA BRASIL (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0021 - FUNDAMENTOS DE ADMINISTRACAO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0021 - FUNDAMENTOS DE ADMINISTRACAO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARIA GORETHE DE SOUSA LIMA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0051 - SANEAMENTO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0051 - SANEAMENTO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0051 - SANEAMENTO II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="8º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     <Subject name="ECI0043 - SANEAMENTO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0043 - SANEAMENTO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0043 - SANEAMENTO I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0020 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0020 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0020 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0020 - ENGENHARIA AMBIENTAL"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARIA SILVANA ALCANTARA COSTA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0002 - ALGEBRA LINEAR"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0002 - ALGEBRA LINEAR"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="CAR0001 - CALCULO FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="CAR0001 - CALCULO FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0002 - ALGEBRA LINEAR"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0002 - ALGEBRA LINEAR"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="CAR0001 - CALCULO FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="CAR0001 - CALCULO FUNDAMENTAL I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="1º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MARIO HENRIQUE GOMES PACHECO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     <Subject name="ECI0011 - ELETROMAGNETISMO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0011 - ELETROMAGNETISMO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0078 - FISICA EXPERIMENTAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0078 - FISICA EXPERIMENTAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     <Subject name="ECI0011 - ELETROMAGNETISMO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0011 - ELETROMAGNETISMO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0078 - FISICA EXPERIMENTAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0078 - FISICA EXPERIMENTAL PARA ENGENHARIA"></Subject><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="MATEUS FERREIRA (CCSA)">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0033 - ENGENHARIA ECONOMICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0033 - ENGENHARIA ECONOMICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="PAULO RENATO ALVES FIRMINO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="PAULO ROBERTO LACERDA TAVARES">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     <Subject name="ECI0065 - HIDRAULICA DE CANAIS"></Subject><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0032 - HIDRAULICA APLICADA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0032 - HIDRAULICA APLICADA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     <Subject name="ECI0065 - HIDRAULICA DE CANAIS"></Subject><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0065 - HIDRAULICA DE CANAIS"></Subject><Activity_Tag name="Optativa"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Students name="S09T01"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0032 - HIDRAULICA APLICADA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0032 - HIDRAULICA APLICADA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="RECURSOS HIDRICOS E SANEAMENTO"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="PLACIDO FRANCISCO DE ASSIS ANDRADE">
+   <Day name="SEG">
+    <Hour name="08:00">
+     <Subject name="CAR0005 - CALCULO VETORIAL APLICADO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="CAR0005 - CALCULO VETORIAL APLICADO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="CAR0005 - CALCULO VETORIAL APLICADO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="CAR0005 - CALCULO VETORIAL APLICADO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="MATEMATICA"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="RAFAEL PERAZZO BARBOZA MOTA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="S02T01"></Students>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S02T02"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Prática"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="S02T02"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0007 - PROGRAMACAO COMPUTACIONAL PARA ENGENHARIA"></Subject><Activity_Tag name="COMPUTACAO"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="Turma 02"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ROBERIO ALEXANDRE COELHO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ROSILDA BENICIO DE SOUZA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="CAR0003 - PROBABILIDADE E ESTATISTICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTATISTICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="CAR0003 - PROBABILIDADE E ESTATISTICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTATISTICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="CAR0003 - PROBABILIDADE E ESTATISTICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTATISTICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="CAR0003 - PROBABILIDADE E ESTATISTICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTATISTICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="SILVIA ROBERTA DE OLIVEIRA E SILVA">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0033 - ENGENHARIA ECONOMICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="ECI0033 - ENGENHARIA ECONOMICA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0016 - FUNDAMENTOS DA ECONOMIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0016 - FUNDAMENTOS DA ECONOMIA"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="BASICO DE OUTRAS AREAS"></Activity_Tag><Students name="3º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="THIAGO BESSA PONTES">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="THIAGO DE MELO SANTIAGO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0025 - FISICA FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0025 - FISICA FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="ECI0025 - FISICA FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="ECI0025 - FISICA FUNDAMENTAL II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="FISICA"></Activity_Tag><Students name="2º Semestre"></Students>
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="VICENTE HELANO FEITOSA BATISTA SOBRINHO">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="ECI0080 - CÁLCULO NUMÉRICO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="COMPUTACAO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0080 - CÁLCULO NUMÉRICO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="COMPUTACAO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     <Subject name="ECI0080 - CÁLCULO NUMÉRICO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="COMPUTACAO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0080 - CÁLCULO NUMÉRICO"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="COMPUTACAO"></Activity_Tag><Students name="4º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="WASHINGTON LUIZ RODRIGUES DE QUEIROZ">
+   <Day name="SEG">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="TER">
+    <Hour name="08:00">
+     <Subject name="ECI0028 - RESISTENCIA DOS MATERIAIS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0028 - RESISTENCIA DOS MATERIAIS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0034 - RESISTENCIA DOS MATERIAIS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0034 - RESISTENCIA DOS MATERIAIS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUA">
+    <Hour name="08:00">
+     <Subject name="ECI0039 - ANALISE DE ESTRUTURAS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0039 - ANALISE DE ESTRUTURAS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="ECI0039 - ANALISE DE ESTRUTURAS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="7º Semestre"></Students>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="QUI">
+    <Hour name="08:00">
+     <Subject name="ECI0028 - RESISTENCIA DOS MATERIAIS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="ECI0028 - RESISTENCIA DOS MATERIAIS I"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Students name="5º Semestre"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="ECI0034 - RESISTENCIA DOS MATERIAIS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="ECI0034 - RESISTENCIA DOS MATERIAIS II"></Subject><Activity_Tag name="Teórica"></Activity_Tag><Activity_Tag name="Obrigatória"></Activity_Tag><Activity_Tag name="Turma 01"></Activity_Tag><Activity_Tag name="ESTRUTURAS"></Activity_Tag><Students name="6º Semestre"></Students>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+   <Day name="SEX">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
