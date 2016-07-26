@@ -1,0 +1,33 @@
+<Teacher>
+  <Name>Prof. Washington Luiz</Name>
+  <Siape>1682998</Siape>
+  <Study_Fields>
+    <Study_Field>
+      <Name>ESTRUTURAS</Name>
+    </Study_Field>
+  </Study_Fields>
+  <Subjects_List>
+    <Subject>
+      <Name>ECI0013 - MECANICA PARA ENGENHARIA CIVIL I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0017 - MECANICA PARA ENGENHARIA CIVIL II</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0034 - RESISTENCIA DOS MATERIAIS II</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0028 - RESISTENCIA DOS MATERIAIS I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0067 - PROJETO ESTRUTURAL DE EDIFICIOS DE CONCRETO</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0068 - ESTRUTURAS DE CONCRETO PROTENDIDO</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0074 - ESTRUTURAS DE MADEIRA</Name>
+    </Subject>
+  </Subjects_List>
+</Teacher>
+

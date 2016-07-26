@@ -1,0 +1,45 @@
+<Teacher>
+  <Name>Prof. Otávio Rangel</Name>
+  <Siape>1693242</Siape>
+  <Study_Fields>
+    <Study_Field>
+      <Name>ESTRUTURAS</Name>
+    </Study_Field>
+  </Study_Fields>
+  <Subjects_List>
+    <Subject>
+      <Name>ECI0013 - MECANICA PARA ENGENHARIA CIVIL I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0017 - MECANICA PARA ENGENHARIA CIVIL II</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0034 - RESISTENCIA DOS MATERIAIS II</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0047 - ESTRUTURAS DE CONCRETO II</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0049 - PONTES I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0028 - RESISTENCIA DOS MATERIAIS I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0039 - ANALISE DE ESTRUTURAS I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0040 - ESTRUTURAS DE CONCRETO I</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0066 - ALVENARIA ESTRUTURAL</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0068 - ESTRUTURAS DE CONCRETO PROTENDIDO</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0069 - ESTRUTURAS DE FUNDACAO</Name>
+    </Subject>
+  </Subjects_List>
+</Teacher>
+

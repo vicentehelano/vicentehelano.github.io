@@ -1,0 +1,30 @@
+<Teacher>
+  <Name>Profa. Celme Torres</Name>
+  <Siape>1549937</Siape>
+  <Study_Fields>
+    <Study_Field>
+      <Name>BASICO DE OUTRAS AREAS</Name>
+    </Study_Field>
+    <Study_Field>
+      <Name>RECURSOS HIDRICOS E SANEAMENTO</Name>
+    </Study_Field>
+  </Study_Fields>
+  <Subjects_List>
+    <Subject>
+      <Name>ECI0020 - ENGENHARIA AMBIENTAL</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0044 - HIDROLOGIA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0061 - METODOLOGIA DO TRABALHO CIENTIFICO</Name>
+    </Subject>
+    <Subject>
+      <Name>PRG0003 - EDUCAÇAO AMBIENTAL</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0070 - DRENAGEM URBANA</Name>
+    </Subject>
+  </Subjects_List>
+</Teacher>
+

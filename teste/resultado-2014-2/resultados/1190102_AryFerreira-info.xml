@@ -1,0 +1,39 @@
+<Teacher>
+  <Name>Prof. Ary Ferreira</Name>
+  <Siape>1190102</Siape>
+  <Study_Fields>
+    <Study_Field>
+      <Name>BASICO DA AREA</Name>
+    </Study_Field>
+    <Study_Field>
+      <Name>TRANSPORTES</Name>
+    </Study_Field>
+  </Study_Fields>
+  <Subjects_List>
+    <Subject>
+      <Name>ECI0012 - TOPOGRAFIA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0036 - PROJETO E CONSTRUCAO DA INFRA-ESTRUTURA VIARIA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0050 - OPERACAO DE SISTEMAS DE TRANSPORTES</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0030 - ANALISE E PLANEJ DE SIST DE TRANSPORTES</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0042 - PROJETO E CONSTR DA SUPER ESTR VIARIA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0058 - TRANSPORTE PUBLICO URBANO</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0059 - ENGENHARIA DE TRAFEGO</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0064 - GESTAO DE PAVIMENTOS</Name>
+    </Subject>
+  </Subjects_List>
+</Teacher>
+

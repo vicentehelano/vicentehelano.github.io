@@ -1,0 +1,27 @@
+<Teacher>
+  <Name>Prof. Paulo Roberto</Name>
+  <Siape>1549945</Siape>
+  <Study_Fields>
+    <Study_Field>
+      <Name>ESTATISTICA</Name>
+    </Study_Field>
+    <Study_Field>
+      <Name>RECURSOS HIDRICOS E SANEAMENTO</Name>
+    </Study_Field>
+  </Study_Fields>
+  <Subjects_List>
+    <Subject>
+      <Name>CAR0003 - PROBABILIDADE E ESTATISTICA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0032 - HIDRAULICA APLICADA</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0065 - HIDRAULICA DE CANAIS</Name>
+    </Subject>
+    <Subject>
+      <Name>ECI0070 - DRENAGEM URBANA</Name>
+    </Subject>
+  </Subjects_List>
+</Teacher>
+
